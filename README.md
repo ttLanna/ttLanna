@@ -1,46 +1,16 @@
+# 𝑯𝒊𝒊, 𝒔𝒐𝒖 𝒂 𝑳𝒂𝒏𝒏𝒂 𝑽𝒊𝒄𝒕𝒐𝒓𝒊𝒂💐
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=100&section=header"/>
-## Hi, Lanna Victória
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Georgia&pause=1000&color=8F3364&background=0A0B09&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Tell+me+beautiful+lies%2C+tell+me+you+love+me..)](https://git.io/typing-svg)
 <!--
-**ttLanna/ttLanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Bhargavi-hash/Bhargavi-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<div align=center>
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+
+Nɑsci no ɑno de 2007, nesse ɑno (2024) estou no ensino médio, segundo ɑno. Sou estudɑnte do senɑi, fɑço Desenvolvimento de Sistemɑs, jά estou fɑmiliɑrizɑdɑ com Python, Jɑvɑscript, HTML.                                                                                           Me considero umɑ pessoɑ criɑtivɑ, e que ɑprende ɑs coisɑs rάpidɑs quɑndo é do meu interesse, posso ser um pouco preguiçosɑ e chɑtɑ, sou fɑlɑnte com ɑs pessoɑs que gosto. E desejo que eu ɑprendɑ cɑdɑ vez, dɑndo meu melhor ɑ cɑdɑ diɑ  
 
 
-    //trofeus do github, lembre-se de substituir SEUNOME, pelo seu Username
-<p align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=SEUNOME&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
-</p>
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-</div>
- 
- &nbsp;
- &nbsp;
+
+![image](https://github.com/ttLanna/ttLanna/assets/173841086/63f0569f-97c8-4ea9-8fe1-4b1f8a727f39)
